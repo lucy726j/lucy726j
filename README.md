@@ -1,7 +1,7 @@
 ## Lucy
 
-안녕하세요! 🙋‍♂️ 개발자 지망생 LUCY 입니다. 개발은 Programming이 아닌 Development라는 생각으로, 개발자 뿐 아니라 모든 직군이 함께 해야하는 것 이라고 생각합니다.
-항상 이야기하는것을 좋아하고 비난이 아닌 비판은 언제든지 환영합니다. 🥰 모두 행복했으면 좋겠어요!
+안녕하세요! 🙋‍♂️ 0년차 프론트엔드 개발자 LUCY 입니다. 개발은 Programming이 아닌 Development라는 생각으로, 개발자 뿐 아니라 모든 직군이 함께 해야하는 것 이라고 생각합니다.
+항상 이야기하는것을 좋아하고 비난이 아닌 비판은 언제든지 환영합니다.
 <br />
 <br />
 <br />
@@ -28,9 +28,10 @@
 #### I use it often.
 
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
-  <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 </div>
 <br />
 <br />
